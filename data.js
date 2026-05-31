@@ -138,7 +138,7 @@ Quando você se organiza, o negócio cresce.`
   pages.qrcode = {
     title: "QR CODES FACILITAM VENDAS",
     intro: `QR Code é um código que pode ser escaneado pela câmera do celular para abrir links, fazer pagamentos rapidamente.\nHoje, muitos bancos usam QR Code para pagamentos via Pix, tornando as vendas mais rápidas e práticas para clientes e vendedores.\nAprenda como gerar seu próprio QR Code e como usar essa ferramenta para facilitar pagamentos no seu negócio.`,
-    video: ,
+    video: "https://www.youtube.com/watch?v=op4aBCzhsg4",
     next: [
       { text: "Voltar à Capa", target: "index", klass: "back" }
     ]
